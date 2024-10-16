@@ -7,13 +7,13 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://i.imgur.com/8knPB91.png"  />
+  <img height="420" width="850" src="https://i.imgur.com/8knPB91.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="350" src="https://i.imgur.com/XNcpaXg.jpeg"  />
+  <img height="420" width="850" src="https://i.imgur.com/XNcpaXg.jpeg"  />
 </div>
 
 ###
